@@ -4,7 +4,7 @@
     <parent>
         <groupId>org.apache.logging.winnt</groupId>
         <artifactId>ntlog</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0</version>
     </parent>
     <artifactId>ntlog-test</artifactId>
     <packaging>jar</packaging>
@@ -17,22 +17,22 @@
         <dependency>
             <groupId>org.apache.logging.winnt</groupId>
             <artifactId>ntlog-dll</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0</version>
         </dependency>                
         <dependency>
             <groupId>org.apache.logging.winnt</groupId>
             <artifactId>ntlog-log4j</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.logging.winnt</groupId>
             <artifactId>ntlog-log4j2</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.logging.winnt</groupId>
             <artifactId>ntlog-logback</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0</version>
         </dependency>
         <dependency>
             <groupId>org.testng</groupId>
