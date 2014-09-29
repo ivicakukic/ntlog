@@ -24,6 +24,6 @@ is included in windows\system32 folder or your classpath.
 
 Usage with application servers
 ------------------------------
-To use appenders in application server environments, place the ntlog-dll-1.0.jar in a folder visible to server class loader. Applications can use include separate logging frameworks or use shared a logger, as long as ntlog-dll-1.0.jar is shared. Application restarts are also supported, since the DLL is loaded from a class loaded by system class loader. 
+To use appenders in application server environments, place the ntlog-dll-1.0.jar in a folder visible to server class loader. Applications can use include separate logging frameworks or use a shared logger, as long as ntlog-dll-1.0.jar is shared. Application restarts are also supported, since the DLL is loaded from a class created by server class loader. 
 
 For tomcat 7 use lib folder. 
