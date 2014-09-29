@@ -1,7 +1,7 @@
 ntlog
 =====
 
-Windows NT Event Log Appender
+About the project
 ------------------------------
 Project contains windows nt log appenders for common loggins frameworks, including log4j, log4j2 and logback. 
 
